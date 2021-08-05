@@ -1,3 +1,7 @@
+
+Recent research:
+===
+旋转复合材料圆管的动力学建模
 Funny things:
 ===
 
